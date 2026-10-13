@@ -11,10 +11,10 @@ Welcome to my portfolio! Here you can explore and download my four Power BI dash
 [📥 Download Group 8 Dashboard](./Group_8.pbix)
 
 ### 3. Supply Chain Dashboard
-[📥 Download Supply Chain Dashboard](./SupplyChain.pbix)
+[📥 Download Supply Chain Dashboard](./Supplychain.pbix)
 
 ### 4. Power BI Dashboard
-[📥 Download My Power BI Dashboard](./Arpit_Shah_J25FC027/PowerBI.pbix)
+[📥 Download My Power BI Dashboard](./Arpit_Shah_JI25PG027PowerBI.pbix)
 
 ---
 
